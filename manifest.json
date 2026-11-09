@@ -1,0 +1,13 @@
+{
+  "background_color": "#2f1066",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Хроники",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Хроники",
+  "start_url": "/",
+  "theme_color": "#bc0d0d",
+  "description": "Игра по сюжетам Захара и Вокова",
+  "lang": "ru"
+}
